@@ -1,0 +1,1 @@
+python A.py < test.in > test.out
